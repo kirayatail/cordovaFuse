@@ -1,4 +1,7 @@
 {
+  "name": "cordova-fuse",
+  "version": "0.0.1",
+  "author": "Adfab Connect",
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-cli": "*",
